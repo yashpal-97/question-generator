@@ -1,11 +1,11 @@
 var questions1 = [
     
-    "Take 4 numbers as input and print out their sum?",
+    "Take 4 numbers as Input and print out their sum?",
     "take a number as input if number is greater than 2023 print WINNER else LOSER ",
     "take array as input print out the array",
     "print max of two number",
     "print yes if num is even or odd",
-    "given price given total purse print number of items you can buy.",
+    "given price given total purse amount print number of items you can buy.",
    
  ];
 
